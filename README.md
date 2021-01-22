@@ -59,7 +59,7 @@ Renaissance is an educational blog site built using ASP.NET MVC. This website is
   <img src="demo images/demo-6.png">
 </div>
 <div>
-  <p>After review admin has to decide wheather to approve or not</p>
+  <p>After review admin has to decide whether to approve or not</p>
   <img src="demo images/demo-7.png">
 </div>
 <div>
